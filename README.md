@@ -2,7 +2,6 @@
 
 This is a module the BME280 temperature, pressure and humiditiy, to be used with micropython on the Pi Pico.
 
-The module includes a calibration function and file to record and account for deviation from the true value. See file `bme280_offsets.txt`
 ## Class Description
 
 `sensor = BME280(SDA, SCL, id=0, FREQ=400_000, mode=BME280_SAMPLE_1, address=BME280_I2CADDR)`
