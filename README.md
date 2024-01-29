@@ -1,6 +1,7 @@
 # Micropython BME280 Module
 
-This is a module the BME280 temperature, pressure and humiditiy, to be used with micropython on the Pi Pico.
+This is a module is for the BME280 temperature, pressure and humiditiy sensor, to be used with micropython on the Pi Pico.<br>
+It can read the temperature, barometric pressure, and relative humidity, also calculates the the altitude from the pressure.
 
 ## Class Description
 
